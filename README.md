@@ -3,6 +3,7 @@
 Simple module for resource access serialization (synchronization). Useful to prevent concurrent access to a resource that can't handle multiple requests at the same time.
 
 [![Build Status](https://travis-ci.org/iefserge/serialize-access.svg?branch=master)](https://travis-ci.org/iefserge/serialize-access)
+[![Coverage Status](https://coveralls.io/repos/github/iefserge/serialize-access/badge.svg?branch=master)](https://coveralls.io/github/iefserge/serialize-access?branch=master)
 
 ## Usage
 
